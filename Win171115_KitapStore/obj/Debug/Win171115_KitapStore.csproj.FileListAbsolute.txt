@@ -1,0 +1,15 @@
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\bin\Debug\Win171115_KitapStore.exe.config
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\bin\Debug\Win171115_KitapStore.exe
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\bin\Debug\Win171115_KitapStore.pdb
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\bin\Debug\EntityFramework.dll
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\bin\Debug\EntityFramework.xml
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\obj\Debug\Win171115_KitapStore.csprojResolveAssemblyReference.cache
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\obj\Debug\Win171115_KitapStore.Form1.resources
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\obj\Debug\Win171115_KitapStore.frmAdmin.resources
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\obj\Debug\Win171115_KitapStore.frmEkle.resources
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\obj\Debug\Win171115_KitapStore.Properties.Resources.resources
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\obj\Debug\Win171115_KitapStore.csproj.GenerateResource.Cache
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\obj\Debug\Win171115_KitapStore.exe
+C:\Users\Zümra\Desktop\202A\dersler\Win171115_KitapStore\Win171115_KitapStore\obj\Debug\Win171115_KitapStore.pdb
